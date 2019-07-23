@@ -14,24 +14,14 @@ For application to run you will need to install all the npm packages used. You d
 
 Now you should be up and running!
 
+## Deployed Link
 
-
-
-
+- https://cryptic-taiga-41478.herokuapp.com/
 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+- Adam Minkus
+- Nina Teng
+- David Lon
+- Scott Willis
